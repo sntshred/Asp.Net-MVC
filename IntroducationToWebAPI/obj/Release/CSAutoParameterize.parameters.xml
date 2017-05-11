@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-IntroducationToWebAPI-20170118023517.mdf;Initial Catalog=aspnet-IntroducationToWebAPI-20170118023517;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\chouhan's\\Documents\\Visual\ Studio\ 2015\\Projects\\IntroducationToWebAPI\\IntroducationToWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="EmployeeDBEntities-Web.config Connection String" description="EmployeeDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/EmployeeDataModel.csdl|res://*/EmployeeDataModel.ssdl|res://*/EmployeeDataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=CHOUHANS-PC;initial catalog=man;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\chouhan's\\Documents\\Visual\ Studio\ 2015\\Projects\\IntroducationToWebAPI\\IntroducationToWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

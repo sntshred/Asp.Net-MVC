@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducationToWebAPI", "IntroducationToWebAPI\IntroducationToWebAPI.csproj", "{653FAE16-757C-4054-B4E1-1C0C2501E19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataAccess", "EmployeeDataAccess\EmployeeDataAccess.csproj", "{ABEFA223-A2BE-4650-B28D-9242AE4C5BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossDominCheck", "CrossDominCheck\CrossDominCheck.csproj", "{FB67AEF3-4A30-4F39-A356-DEAA19D00673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenAuthentication", "TokenAuthentication\TokenAuthentication.csproj", "{74AD9F32-675E-4894-BF15-58C4189409BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WintellectWerApi", "WintellectWerApi\WintellectWerApi.csproj", "{381B6970-1FCE-456C-A277-4CD906CA7E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WintelectSelfHosting", "WintelectSelfHosting\WintelectSelfHosting.csproj", "{22C80262-7784-4898-9368-72FB15D1E1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersioninWebApi", "VersioninWebApi\VersioninWebApi.csproj", "{07778794-6663-4BDC-BCF4-DB09A62340EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653FAE16-757C-4054-B4E1-1C0C2501E19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653FAE16-757C-4054-B4E1-1C0C2501E19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653FAE16-757C-4054-B4E1-1C0C2501E19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653FAE16-757C-4054-B4E1-1C0C2501E19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEFA223-A2BE-4650-B28D-9242AE4C5BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEFA223-A2BE-4650-B28D-9242AE4C5BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEFA223-A2BE-4650-B28D-9242AE4C5BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEFA223-A2BE-4650-B28D-9242AE4C5BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB67AEF3-4A30-4F39-A356-DEAA19D00673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB67AEF3-4A30-4F39-A356-DEAA19D00673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB67AEF3-4A30-4F39-A356-DEAA19D00673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB67AEF3-4A30-4F39-A356-DEAA19D00673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AD9F32-675E-4894-BF15-58C4189409BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AD9F32-675E-4894-BF15-58C4189409BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AD9F32-675E-4894-BF15-58C4189409BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AD9F32-675E-4894-BF15-58C4189409BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381B6970-1FCE-456C-A277-4CD906CA7E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381B6970-1FCE-456C-A277-4CD906CA7E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381B6970-1FCE-456C-A277-4CD906CA7E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381B6970-1FCE-456C-A277-4CD906CA7E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C80262-7784-4898-9368-72FB15D1E1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C80262-7784-4898-9368-72FB15D1E1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C80262-7784-4898-9368-72FB15D1E1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C80262-7784-4898-9368-72FB15D1E1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07778794-6663-4BDC-BCF4-DB09A62340EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07778794-6663-4BDC-BCF4-DB09A62340EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07778794-6663-4BDC-BCF4-DB09A62340EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07778794-6663-4BDC-BCF4-DB09A62340EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

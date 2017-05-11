@@ -1,0 +1,14 @@
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\WintelectSelfHosting.exe.config
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\WintelectSelfHosting.exe
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\WintelectSelfHosting.pdb
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Web.Http.dll
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Web.Http.xml
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\obj\Debug\WintelectSelfHosting.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\obj\Debug\WintelectSelfHosting.exe
+C:\Users\chouhan's\documents\visual studio 2015\Projects\IntroducationToWebAPI\WintelectSelfHosting\obj\Debug\WintelectSelfHosting.pdb
